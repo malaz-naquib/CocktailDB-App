@@ -4,7 +4,7 @@ After a long day, you go to your kitchen to make a drink, but alas! You've lost 
 
 **Check it out here:** https://cocktail-db-app-mn.netlify.app/
 
-![cocktaildb-image](https://github.com/malaz-naquib/CocktailDB-App-Project/assets/113329798/150e6daf-9371-4809-9bde-73ce9fe1dc24)
+![cocktail-db-gif](https://github.com/malaz-naquib/CocktailDB-App/assets/113329798/d5d46561-ce58-487a-be83-468b88f13cd4)
 
 ## Description:
 
