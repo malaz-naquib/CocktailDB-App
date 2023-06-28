@@ -4,13 +4,13 @@ After a long day, you go to your kitchen to make a drink, but alas! You've lost 
 
 **Check it out here:** https://cocktail-db-app-mn.netlify.app/
 
-![cocktail-db-gif](https://github.com/malaz-naquib/CocktailDB-App/assets/113329798/d5d46561-ce58-487a-be83-468b88f13cd4)
+![cocktail-db](https://github.com/malaz-naquib/CocktailDB-App/assets/113329798/39495352-59cb-4623-b813-83167961fbee)
 
 ## Description:
 
 **Tech used:** HTML, CSS, JavaScript
 
-This fun little app takes in your input, either an alcohol type or specific cocktail, then retrieves the name, image, and instructions on how to create a specific cocktail based on your input. Fun to use when you have a selection of alcohols to choose from, but don't know how to create a specific drink!
+This fun little app takes in your input, either an alcohol type or a specific cocktail, then retrieves the name, image, and instructions on how to create a specific cocktail based on your input. Fun to use when you have a selection of alcohols to choose from, but don't know how to create a specific drink!
 
 ## Lessons Learned:
 
